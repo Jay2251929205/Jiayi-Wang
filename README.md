@@ -1,4 +1,4 @@
 # Jiayi Wang
 Jiayi Wang
 
-![photo](./image/Jiayi Wang.JPG)
+![photo](./image/Jiayi Wang.jpg)
