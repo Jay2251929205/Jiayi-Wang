@@ -1,0 +1,5 @@
+plugins:
+- jemoji
+remote_theme: pages-themes/architect@v0.2.0
+title: Jiayi_Wang
+description: Short bio and introduction of Jiayi Wang
