@@ -12,6 +12,6 @@ My name is Jiayi Wang. I am a junior at Duke Kunshan University. I major in Appl
 
 | Platform  | URL |
 | ------------- | ------------- |
-| Colab  | Content Cell  |
+| Colab  | [Content Cell](https://github.com/Jay2251929205/Jiayi-Wang/blob/main/SampleProjects/Jiayi_Wang_Problem_Set_1_Demo_Ethereum_Blockchain_API.ipynb)  |
 | Kaggle  | Content Cell  |
 
