@@ -6,8 +6,9 @@ My name is Jiayi Wang. I am a junior at Duke Kunshan University. I major in Appl
 
 <img width="460" height="440" src="./image/11232435.png">
 
-# Table of contents
+# Sample Projects
 | Tables  | URL |
 | ------------- | ------------- |
 | Data  | Content Cell  |
 | Code  | Content Cell  |
+{: .tablelines}
