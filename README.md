@@ -10,8 +10,8 @@ My name is Jiayi Wang. I am a junior at Duke Kunshan University. I major in Appl
 # Sample Projects
 
 
-| Tables  | URL |
+| Platform  | URL |
 | ------------- | ------------- |
-| Data  | Content Cell  |
-| Code  | Content Cell  |
+| Colab  | Content Cell  |
+| Kaggle  | Content Cell  |
 
